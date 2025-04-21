@@ -57,8 +57,9 @@ QUIC Stream-ID: 456
 (Uses QUIC stream for fast, secure, low-latency delivery.)
 
 ## ✅ Advantages of HTTP 3.0
+
 | Advantage | Benefit | 
-| --------- | ------- |
+|-----------|---------|
 | **Low latency** | Faster connections, fewer delays | 
 | **Eliminates head-of-line blocking** | No bottlenecks in data transmission | 
 | **Improved security** | Encryption built into QUIC by default | 
@@ -69,7 +70,7 @@ QUIC Stream-ID: 456
 ## ❌ Disadvantages of HTTP 0.9
 
 | Disadvantage | Impact | 
-|-----------|---------|
+|--------------|--------|
 | **Requires browser & server support** | Not all systems fully support HTTP 3.0 yet | 
 | **New learning curve** | Developers must adapt to QUIC instead of TCP | 
 | **Higher CPU usage** | QUIC consumes more processing power due to encryption | 

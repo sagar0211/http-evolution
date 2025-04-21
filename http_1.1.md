@@ -97,7 +97,8 @@ Date: Mon, 21 April 2025 19:00:00 GMT
 Content-Type: text/html
 Cache-Control: max-age=3600
 ETag: "abc123"
-
+```
+```html
 <html>
 <head><title>Cached Page</title></head>
 <body>

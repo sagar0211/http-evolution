@@ -67,8 +67,9 @@ Content-Type: text/html
 
 
 ## ❌ Disadvantages of HTTP 2.0
+
 | Disadvantage | Impact | 
-|-----------|---------|
+|--------------|--------|
 | **Complex Implementation** | Requires changes to server infrastructure | 
 | **Limited Adoption** | Not all systems fully support HTTP 2.0 | 
 | **Increased Processing Power** | More computational overhead than HTTP/1.1 | 
